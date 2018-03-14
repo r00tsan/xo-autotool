@@ -1,0 +1,12 @@
+{
+  "name": "Xo Autotool",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
