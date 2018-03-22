@@ -1797,4 +1797,12 @@ input.mat-input-element {
 .w100 {
   width: 100%; }
 
-/*# sourceMappingURL=main.a718025e0b3a1697c6edcbcca8565691.css.map*/
+.version {
+  font-size: 11px;
+  position: fixed;
+  bottom: 5px;
+  right: 5px;
+  color: #9c9c9c;
+  z-index: 1000; }
+
+/*# sourceMappingURL=main.f46e11e5ff0e5ea15c23e6c0faadd62d.css.map*/
